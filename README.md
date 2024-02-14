@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kashifZaltech
+- 👀 I’m interested in GenerativeAI< STable DIffusion and LLMS
+- 🌱 I’m currently learning RAG Operations and Knowledge Graph
+- 💞️ I’m looking to collaborate on MYNTIST Ecosystem
