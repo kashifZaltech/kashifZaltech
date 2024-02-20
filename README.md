@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kashifZaltech
+- 👋 Hi, I’m an AI Developer.
 - 👀 I’m interested in GenerativeAI, Stable DIffusion and LLMs
 - 🌱 I’m currently learning RAG Operations and Knowledge Graph
 - 💞️ I’m looking to collaborate on MYNTIST Ecosystem
