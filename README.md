@@ -10,7 +10,7 @@ git commit -am "commit message means what are your changes"
 
 git remote add origin https://github.com/kashifZaltech/testrepo #add specific git repository 
 
-git push origin test-branch #push to the branch
+git push -u origin test-branch #push to the branch
 
 git checkout testbranch2 #switch to other branc
 
